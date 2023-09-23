@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Runtime.InteropServices;
 
 namespace SintaxeCsharpe {
     class Program {
@@ -16,7 +17,15 @@ namespace SintaxeCsharpe {
             Console.WriteLine(n1);
             //lembrando, que podemos usar a mesma regra para convertes a string para o que estamos trabalhando
 
+            int n2 = int.Parse(Console.ReadLine());
+            int somaValor = soma(n1, n2);
 
+            Console.WriteLine("Soma dos valores " + n1 + " + " + n2 + " = " + somaValor);
+
+        }
+
+        static int soma(int n1, int n2) {
+            return n1+n2;
         }
     }
 }

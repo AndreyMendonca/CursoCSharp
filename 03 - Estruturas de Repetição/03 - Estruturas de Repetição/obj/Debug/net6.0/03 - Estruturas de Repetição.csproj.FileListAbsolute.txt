@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\bin\Debug\net6.0\03 - Estruturas de Repetição.exe
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\bin\Debug\net6.0\03 - Estruturas de Repetição.deps.json
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\bin\Debug\net6.0\03 - Estruturas de Repetição.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\bin\Debug\net6.0\03 - Estruturas de Repetição.dll
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\bin\Debug\net6.0\03 - Estruturas de Repetição.pdb
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\03 - Estruturas de Repetição.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\03 - Estruturas de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\03 - Estruturas de Repetição.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\03 - Estruturas de Repetição.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\03 - Estruturas de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\03 - Estruturas de Repetição.dll
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\refint\03 - Estruturas de Repetição.dll
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\03 - Estruturas de Repetição.pdb
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\03 - Estruturas de Repetição.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\03 - Estruturas de Repetição\03 - Estruturas de Repetição\obj\Debug\net6.0\ref\03 - Estruturas de Repetição.dll
