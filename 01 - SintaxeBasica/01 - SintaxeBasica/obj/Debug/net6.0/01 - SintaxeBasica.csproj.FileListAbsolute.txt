@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\bin\Debug\net6.0\01 - SintaxeBasica.exe
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\bin\Debug\net6.0\01 - SintaxeBasica.deps.json
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\bin\Debug\net6.0\01 - SintaxeBasica.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\bin\Debug\net6.0\01 - SintaxeBasica.dll
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\bin\Debug\net6.0\01 - SintaxeBasica.pdb
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\01 - SintaxeBasica.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\01 - SintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\01 - SintaxeBasica.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\01 - SintaxeBasica.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\01 - SintaxeBasica.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\01 - SintaxeBasica.dll
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\refint\01 - SintaxeBasica.dll
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\01 - SintaxeBasica.pdb
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\01 - SintaxeBasica.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\01 - SintaxeBasica\01 - SintaxeBasica\obj\Debug\net6.0\ref\01 - SintaxeBasica.dll
