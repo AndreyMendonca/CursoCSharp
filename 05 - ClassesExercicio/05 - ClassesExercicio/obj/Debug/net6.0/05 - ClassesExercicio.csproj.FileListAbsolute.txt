@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\bin\Debug\net6.0\05 - ClassesExercicio.exe
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\bin\Debug\net6.0\05 - ClassesExercicio.deps.json
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\bin\Debug\net6.0\05 - ClassesExercicio.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\bin\Debug\net6.0\05 - ClassesExercicio.dll
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\bin\Debug\net6.0\05 - ClassesExercicio.pdb
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\05 - ClassesExercicio.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\05 - ClassesExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\05 - ClassesExercicio.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\05 - ClassesExercicio.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\05 - ClassesExercicio.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\05 - ClassesExercicio.dll
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\refint\05 - ClassesExercicio.dll
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\05 - ClassesExercicio.pdb
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\05 - ClassesExercicio.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\05 - ClassesExercicio\05 - ClassesExercicio\obj\Debug\net6.0\ref\05 - ClassesExercicio.dll
