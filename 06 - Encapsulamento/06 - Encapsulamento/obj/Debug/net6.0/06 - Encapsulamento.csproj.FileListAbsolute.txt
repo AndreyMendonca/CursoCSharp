@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\06 - Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\06 - Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\06 - Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\06 - Encapsulamento.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\06 - Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\bin\Debug\net6.0\06 - Encapsulamento.exe
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\bin\Debug\net6.0\06 - Encapsulamento.deps.json
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\bin\Debug\net6.0\06 - Encapsulamento.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\bin\Debug\net6.0\06 - Encapsulamento.dll
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\bin\Debug\net6.0\06 - Encapsulamento.pdb
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\06 - Encapsulamento.dll
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\refint\06 - Encapsulamento.dll
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\06 - Encapsulamento.pdb
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\06 - Encapsulamento.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\06 - Encapsulamento\06 - Encapsulamento\obj\Debug\net6.0\ref\06 - Encapsulamento.dll

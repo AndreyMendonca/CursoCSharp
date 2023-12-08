@@ -6,15 +6,17 @@ namespace Classe {
     class Program {
         static void Main(string[] args) {
 
-            Produto p = new Produto();
+            Produto p;
 
             Console.WriteLine("Entre com os dados do produto: ");
             Console.Write("Nome: ");
-            p.Nome = Console.ReadLine();
+            string Nome = Console.ReadLine();
             Console.Write("Preço: ");
-            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Quantidade de estoque: ");
-            p.Quantidade = int.Parse(Console.ReadLine());
+            int Quantidade = int.Parse(Console.ReadLine());
+            
+            p = new Produto(Nome, Preco, Quantidade);
 
             Console.WriteLine("Ddos do produto: " + p);
         }
