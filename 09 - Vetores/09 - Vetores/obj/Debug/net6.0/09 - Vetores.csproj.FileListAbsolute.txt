@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\bin\Debug\net6.0\09 - Vetores.exe
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\bin\Debug\net6.0\09 - Vetores.deps.json
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\bin\Debug\net6.0\09 - Vetores.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\bin\Debug\net6.0\09 - Vetores.dll
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\bin\Debug\net6.0\09 - Vetores.pdb
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\09 - Vetores.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\09 - Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\09 - Vetores.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\09 - Vetores.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\09 - Vetores.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\09 - Vetores.dll
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\refint\09 - Vetores.dll
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\09 - Vetores.pdb
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\09 - Vetores.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\09 - Vetores\09 - Vetores\obj\Debug\net6.0\ref\09 - Vetores.dll

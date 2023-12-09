@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\07 - Struct.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\07 - Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\07 - Struct.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\07 - Struct.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\07 - Struct.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\bin\Debug\net6.0\07 - Struct.exe
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\bin\Debug\net6.0\07 - Struct.deps.json
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\bin\Debug\net6.0\07 - Struct.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\bin\Debug\net6.0\07 - Struct.dll
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\bin\Debug\net6.0\07 - Struct.pdb
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\07 - Struct.dll
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\refint\07 - Struct.dll
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\07 - Struct.pdb
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\07 - Struct.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\07 - Struct\07 - Struct\obj\Debug\net6.0\ref\07 - Struct.dll

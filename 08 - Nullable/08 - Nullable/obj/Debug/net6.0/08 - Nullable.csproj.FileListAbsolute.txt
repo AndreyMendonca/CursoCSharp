@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\bin\Debug\net6.0\08 - Nullable.exe
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\bin\Debug\net6.0\08 - Nullable.deps.json
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\bin\Debug\net6.0\08 - Nullable.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\bin\Debug\net6.0\08 - Nullable.dll
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\bin\Debug\net6.0\08 - Nullable.pdb
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\08 - Nullable.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\08 - Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\08 - Nullable.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\08 - Nullable.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\08 - Nullable.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\08 - Nullable.dll
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\refint\08 - Nullable.dll
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\08 - Nullable.pdb
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\08 - Nullable.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\08 - Nullable\08 - Nullable\obj\Debug\net6.0\ref\08 - Nullable.dll
