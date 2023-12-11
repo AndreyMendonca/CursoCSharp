@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\bin\Debug\net6.0\11 - Foreach.exe
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\bin\Debug\net6.0\11 - Foreach.deps.json
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\bin\Debug\net6.0\11 - Foreach.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\bin\Debug\net6.0\11 - Foreach.dll
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\bin\Debug\net6.0\11 - Foreach.pdb
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\11 - Foreach.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\11 - Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\11 - Foreach.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\11 - Foreach.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\11 - Foreach.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\11 - Foreach.dll
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\refint\11 - Foreach.dll
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\11 - Foreach.pdb
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\11 - Foreach.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\11 - Foreach\11 - Foreach\obj\Debug\net6.0\ref\11 - Foreach.dll

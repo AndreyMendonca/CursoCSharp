@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\bin\Debug\net6.0\10 - Params.exe
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\bin\Debug\net6.0\10 - Params.deps.json
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\bin\Debug\net6.0\10 - Params.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\bin\Debug\net6.0\10 - Params.dll
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\bin\Debug\net6.0\10 - Params.pdb
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\10 - Params.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\10 - Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\10 - Params.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\10 - Params.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\10 - Params.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\10 - Params.dll
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\refint\10 - Params.dll
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\10 - Params.pdb
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\10 - Params.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\10 - Params\10 - Params\obj\Debug\net6.0\ref\10 - Params.dll
