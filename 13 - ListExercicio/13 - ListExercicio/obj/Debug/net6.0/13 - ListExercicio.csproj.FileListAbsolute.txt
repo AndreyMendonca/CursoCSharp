@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\13 - ListExercicio.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\13 - ListExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\13 - ListExercicio.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\13 - ListExercicio.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\13 - ListExercicio.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\bin\Debug\net6.0\13 - ListExercicio.exe
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\bin\Debug\net6.0\13 - ListExercicio.deps.json
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\bin\Debug\net6.0\13 - ListExercicio.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\bin\Debug\net6.0\13 - ListExercicio.dll
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\bin\Debug\net6.0\13 - ListExercicio.pdb
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\13 - ListExercicio.dll
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\refint\13 - ListExercicio.dll
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\13 - ListExercicio.pdb
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\13 - ListExercicio.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\13 - ListExercicio\13 - ListExercicio\obj\Debug\net6.0\ref\13 - ListExercicio.dll
