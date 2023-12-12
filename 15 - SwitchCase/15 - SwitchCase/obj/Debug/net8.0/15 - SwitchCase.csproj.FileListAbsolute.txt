@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\bin\Debug\net8.0\15 - SwitchCase.exe
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\bin\Debug\net8.0\15 - SwitchCase.deps.json
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\bin\Debug\net8.0\15 - SwitchCase.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\bin\Debug\net8.0\15 - SwitchCase.dll
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\bin\Debug\net8.0\15 - SwitchCase.pdb
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\15 - SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\15 - SwitchCase.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\15 - SwitchCase.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\15 - SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\15 - SwitchCase.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\15 - SwitchCase.dll
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\refint\15 - SwitchCase.dll
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\15 - SwitchCase.pdb
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\15 - SwitchCase.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\15 - SwitchCase\15 - SwitchCase\obj\Debug\net8.0\ref\15 - SwitchCase.dll
