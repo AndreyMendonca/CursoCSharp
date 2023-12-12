@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\bin\Debug\net8.0\14 - Matrizes.exe
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\bin\Debug\net8.0\14 - Matrizes.deps.json
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\bin\Debug\net8.0\14 - Matrizes.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\bin\Debug\net8.0\14 - Matrizes.dll
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\bin\Debug\net8.0\14 - Matrizes.pdb
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\14 - Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\14 - Matrizes.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\14 - Matrizes.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\14 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\14 - Matrizes.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\14 - Matrizes.dll
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\refint\14 - Matrizes.dll
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\14 - Matrizes.pdb
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\14 - Matrizes.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\14 - Matrizes\14 - Matrizes\obj\Debug\net8.0\ref\14 - Matrizes.dll
