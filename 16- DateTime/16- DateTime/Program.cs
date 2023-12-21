@@ -33,6 +33,41 @@ namespace Datetime {
             DateTime d8 = DateTime.ParseExact("15/08/2000 13:05:09", "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
             Console.WriteLine(d7);
             Console.WriteLine(d8);
+
+            ////// propriedades e operações
+
+            DateTime d = new DateTime(2021, 8, 15, 13, 45, 58, 275);
+
+            Console.WriteLine(d);   
+            Console.WriteLine("Date: "+ d.Date);
+            /* 
+             varias operações 
+            .Hours
+            .Minute
+            .DayOfWeek
+            .Year
+            ....
+             */
+
+            Console.WriteLine(d.ToLongDateString());
+            /*
+             * varias opções
+             * ToShortTimeString
+             * ToString
+             * ....
+             */
+
+            //IMPRIMIR A DATA FORMATADA
+            Console.WriteLine(d.ToString("yyyy-MM-dd HH:mm:ss"));
+
+            //OPERAÇÕES
+            /*
+             * .AddHours()
+             * .AddDays()
+             * .AddMinutes()
+             * .Subtract()
+             */
+         
         }
     }
 }
