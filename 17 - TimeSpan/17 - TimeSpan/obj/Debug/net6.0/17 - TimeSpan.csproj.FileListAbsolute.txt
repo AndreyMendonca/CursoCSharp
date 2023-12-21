@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\bin\Debug\net6.0\17 - TimeSpan.exe
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\bin\Debug\net6.0\17 - TimeSpan.deps.json
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\bin\Debug\net6.0\17 - TimeSpan.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\bin\Debug\net6.0\17 - TimeSpan.dll
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\bin\Debug\net6.0\17 - TimeSpan.pdb
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\17 - TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\17 - TimeSpan.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\17 - TimeSpan.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\17 - TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\17 - TimeSpan.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\17 - TimeSpan.dll
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\refint\17 - TimeSpan.dll
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\17 - TimeSpan.pdb
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\17 - TimeSpan.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\17 - TimeSpan\17 - TimeSpan\obj\Debug\net6.0\ref\17 - TimeSpan.dll
