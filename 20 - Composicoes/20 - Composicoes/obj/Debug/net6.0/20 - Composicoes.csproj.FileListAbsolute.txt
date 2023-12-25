@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\20 - Composicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\20 - Composicoes.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\20 - Composicoes.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\20 - Composicoes.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\20 - Composicoes.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\bin\Debug\net6.0\20 - Composicoes.exe
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\bin\Debug\net6.0\20 - Composicoes.deps.json
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\bin\Debug\net6.0\20 - Composicoes.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\bin\Debug\net6.0\20 - Composicoes.dll
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\bin\Debug\net6.0\20 - Composicoes.pdb
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\20 - Composicoes.dll
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\refint\20 - Composicoes.dll
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\20 - Composicoes.pdb
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\20 - Composicoes.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\20 - Composicoes\20 - Composicoes\obj\Debug\net6.0\ref\20 - Composicoes.dll
