@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\exClassMetodosAbastratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\exClassMetodosAbastratos.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\exClassMetodosAbastratos.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\exClassMetodosAbastratos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\exClassMetodosAbastratos.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\bin\Debug\net6.0\exClassMetodosAbastratos.exe
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\bin\Debug\net6.0\exClassMetodosAbastratos.deps.json
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\bin\Debug\net6.0\exClassMetodosAbastratos.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\bin\Debug\net6.0\exClassMetodosAbastratos.dll
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\bin\Debug\net6.0\exClassMetodosAbastratos.pdb
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\exClassMetodosAbastratos.dll
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\refint\exClassMetodosAbastratos.dll
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\exClassMetodosAbastratos.pdb
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\exClassMetodosAbastratos.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\25 - exClassMetodosAbastratos\exClassMetodosAbastratos\obj\Debug\net6.0\ref\exClassMetodosAbastratos.dll
