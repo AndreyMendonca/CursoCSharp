@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\bin\Debug\net6.0\MetodosAbstrados.exe
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\bin\Debug\net6.0\MetodosAbstrados.deps.json
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\bin\Debug\net6.0\MetodosAbstrados.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\bin\Debug\net6.0\MetodosAbstrados.dll
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\bin\Debug\net6.0\MetodosAbstrados.pdb
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\MetodosAbstrados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\MetodosAbstrados.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\MetodosAbstrados.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\MetodosAbstrados.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\MetodosAbstrados.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\MetodosAbstrados.dll
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\refint\MetodosAbstrados.dll
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\MetodosAbstrados.pdb
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\MetodosAbstrados.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\24 - MetodosAbstrados\MetodosAbstrados\obj\Debug\net6.0\ref\MetodosAbstrados.dll
