@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\bin\Debug\net6.0\28 - ExercicioTratamentoExcecao.exe
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\bin\Debug\net6.0\28 - ExercicioTratamentoExcecao.deps.json
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\bin\Debug\net6.0\28 - ExercicioTratamentoExcecao.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\bin\Debug\net6.0\28 - ExercicioTratamentoExcecao.dll
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\bin\Debug\net6.0\28 - ExercicioTratamentoExcecao.pdb
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\28 - ExercicioTratamentoExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\28 - ExercicioTratamentoExcecao.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\28 - ExercicioTratamentoExcecao.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\28 - ExercicioTratamentoExcecao.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\28 - ExercicioTratamentoExcecao.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\28 - ExercicioTratamentoExcecao.dll
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\refint\28 - ExercicioTratamentoExcecao.dll
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\28 - ExercicioTratamentoExcecao.pdb
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\28 - ExercicioTratamentoExcecao.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\28 - ExercicioTratamentoExcecao\28 - ExercicioTratamentoExcecao\obj\Debug\net6.0\ref\28 - ExercicioTratamentoExcecao.dll
