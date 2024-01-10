@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\bin\Debug\net6.0\Path.exe
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\bin\Debug\net6.0\Path.deps.json
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\bin\Debug\net6.0\Path.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\bin\Debug\net6.0\Path.dll
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\bin\Debug\net6.0\Path.pdb
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\Path.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\Path.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\Path.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\Path.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\Path.dll
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\refint\Path.dll
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\Path.pdb
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\Path.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\Path\obj\Debug\net6.0\ref\Path.dll

@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\bin\Debug\net6.0\30 - TrabalhandoComArquivos.exe
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\bin\Debug\net6.0\30 - TrabalhandoComArquivos.deps.json
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\bin\Debug\net6.0\30 - TrabalhandoComArquivos.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\bin\Debug\net6.0\30 - TrabalhandoComArquivos.dll
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\bin\Debug\net6.0\30 - TrabalhandoComArquivos.pdb
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\30 - TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\30 - TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\30 - TrabalhandoComArquivos.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\30 - TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\30 - TrabalhandoComArquivos.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\30 - TrabalhandoComArquivos.dll
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\refint\30 - TrabalhandoComArquivos.dll
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\30 - TrabalhandoComArquivos.pdb
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\30 - TrabalhandoComArquivos.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\30 - TrabalhandoComArquivos\30 - TrabalhandoComArquivos\obj\Debug\net6.0\ref\30 - TrabalhandoComArquivos.dll
