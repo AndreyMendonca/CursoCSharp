@@ -11,14 +11,14 @@ namespace _01_Generics {
 
         public void AddValue(T value) {
             if (_count++ == 10) {
-                throw new Exception("Erro!");
+                throw new InvalidOperationException("PrintService Full!");
             }
             _value[_count] = value;
             _count++;
         }
         public T First() {
             if(_count == 0) {
-                throw new Exception("Vazio!");
+                throw new InvalidOperationException("PrintService Empty!");
             }
             return _value[0];
         }
