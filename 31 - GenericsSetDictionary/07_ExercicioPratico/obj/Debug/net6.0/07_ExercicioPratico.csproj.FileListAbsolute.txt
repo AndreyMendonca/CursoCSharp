@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\bin\Debug\net6.0\07_ExercicioPratico.exe
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\bin\Debug\net6.0\07_ExercicioPratico.deps.json
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\bin\Debug\net6.0\07_ExercicioPratico.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\bin\Debug\net6.0\07_ExercicioPratico.dll
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\bin\Debug\net6.0\07_ExercicioPratico.pdb
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\07_ExercicioPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\07_ExercicioPratico.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\07_ExercicioPratico.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\07_ExercicioPratico.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\07_ExercicioPratico.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\07_ExercicioPratico.dll
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\refint\07_ExercicioPratico.dll
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\07_ExercicioPratico.pdb
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\07_ExercicioPratico.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\07_ExercicioPratico\obj\Debug\net6.0\ref\07_ExercicioPratico.dll

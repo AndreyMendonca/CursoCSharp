@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\bin\Debug\net6.0\06_HashComparandoIgualdade.exe
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\bin\Debug\net6.0\06_HashComparandoIgualdade.deps.json
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\bin\Debug\net6.0\06_HashComparandoIgualdade.runtimeconfig.json
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\bin\Debug\net6.0\06_HashComparandoIgualdade.dll
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\bin\Debug\net6.0\06_HashComparandoIgualdade.pdb
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\06_HashComparandoIgualdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\06_HashComparandoIgualdade.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\06_HashComparandoIgualdade.AssemblyInfo.cs
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\06_HashComparandoIgualdade.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\06_HashComparandoIgualdade.sourcelink.json
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\06_HashComparandoIgualdade.dll
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\refint\06_HashComparandoIgualdade.dll
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\06_HashComparandoIgualdade.pdb
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\06_HashComparandoIgualdade.genruntimeconfig.cache
+C:\Users\andre\Documents\CursoCSharp\31 - GenericsSetDictionary\06_HashComparandoIgualdade\obj\Debug\net6.0\ref\06_HashComparandoIgualdade.dll
